@@ -8,3 +8,4 @@ developed an API that retrieves weather information from OpenWeatherMap, allowin
 
 # 2. Ai Scrapper
 
+![ScreenRecording2024-10-20at16 04 39-ezgif com-optimize](https://github.com/user-attachments/assets/3fa7b77e-942c-47c3-b41d-a92502b37dab)
