@@ -1,0 +1,544 @@
+[
+    {
+        "coord": {
+            "lon": -60.7,
+            "lat": -31.6333
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.51,
+            "feels_like": 292.33,
+            "temp_min": 290.94,
+            "temp_max": 293.15,
+            "pressure": 1010,
+            "humidity": 70,
+            "sea_level": 1010,
+            "grnd_level": 1008
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.89,
+            "deg": 177,
+            "gust": 1.79
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1728645771,
+        "sys": {
+            "type": 2,
+            "id": 2008823,
+            "country": "AR",
+            "sunrise": 1728638840,
+            "sunset": 1728684670
+        },
+        "timezone": -10800,
+        "id": 3836277,
+        "name": "Santa Fe",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -74.006,
+            "lat": 40.7143
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 280.78,
+            "feels_like": 278.18,
+            "temp_min": 278.01,
+            "temp_max": 282.16,
+            "pressure": 1020,
+            "humidity": 75,
+            "sea_level": 1020,
+            "grnd_level": 1019
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 270
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1728645506,
+        "sys": {
+            "type": 1,
+            "id": 4610,
+            "country": "US",
+            "sunrise": 1728644592,
+            "sunset": 1728685304
+        },
+        "timezone": -14400,
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -122.3321,
+            "lat": 47.6062
+        },
+        "weather": [
+            {
+                "id": 701,
+                "main": "Mist",
+                "description": "mist",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 282.11,
+            "feels_like": 280.69,
+            "temp_min": 279.92,
+            "temp_max": 283.49,
+            "pressure": 1018,
+            "humidity": 93,
+            "sea_level": 1018,
+            "grnd_level": 1014
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1728645488,
+        "sys": {
+            "type": 2,
+            "id": 2041694,
+            "country": "US",
+            "sunrise": 1728656582,
+            "sunset": 1728696506
+        },
+        "timezone": -25200,
+        "id": 5809844,
+        "name": "Seattle",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -117.1573,
+            "lat": 32.7153
+        },
+        "weather": [
+            {
+                "id": 701,
+                "main": "Mist",
+                "description": "mist",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.46,
+            "feels_like": 289.57,
+            "temp_min": 287.6,
+            "temp_max": 292.55,
+            "pressure": 1014,
+            "humidity": 93,
+            "sea_level": 1014,
+            "grnd_level": 1012
+        },
+        "visibility": 1207,
+        "wind": {
+            "speed": 2.57,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1728645186,
+        "sys": {
+            "type": 1,
+            "id": 5771,
+            "country": "US",
+            "sunrise": 1728654596,
+            "sunset": 1728696008
+        },
+        "timezone": -25200,
+        "id": 5391811,
+        "name": "San Diego",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 13.4105,
+            "lat": 52.5244
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 285.71,
+            "feels_like": 284.8,
+            "temp_min": 284.76,
+            "temp_max": 286.66,
+            "pressure": 1014,
+            "humidity": 68,
+            "sea_level": 1014,
+            "grnd_level": 1009
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.81,
+            "deg": 276,
+            "gust": 8.05
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1728645699,
+        "sys": {
+            "type": 2,
+            "id": 2011538,
+            "country": "DE",
+            "sunrise": 1728624303,
+            "sunset": 1728663640
+        },
+        "timezone": 7200,
+        "id": 2950159,
+        "name": "Berlin",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.07,
+            "feels_like": 291.79,
+            "temp_min": 292.07,
+            "temp_max": 292.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729399104,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.07,
+            "feels_like": 291.79,
+            "temp_min": 292.07,
+            "temp_max": 292.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729399104,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.07,
+            "feels_like": 291.79,
+            "temp_min": 292.07,
+            "temp_max": 292.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729399104,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.07,
+            "feels_like": 291.79,
+            "temp_min": 292.07,
+            "temp_max": 292.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729399104,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.07,
+            "feels_like": 291.79,
+            "temp_min": 292.07,
+            "temp_max": 292.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729398997,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.07,
+            "feels_like": 292.89,
+            "temp_min": 293.07,
+            "temp_max": 293.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729399665,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 121.4581,
+            "lat": 31.2222
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.07,
+            "feels_like": 292.89,
+            "temp_min": 293.07,
+            "temp_max": 293.08,
+            "pressure": 1023,
+            "humidity": 68,
+            "sea_level": 1023,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1729400090,
+        "sys": {
+            "type": 1,
+            "id": 9659,
+            "country": "CN",
+            "sunrise": 1729375218,
+            "sunset": 1729415837
+        },
+        "timezone": 28800,
+        "id": 1796236,
+        "name": "Shanghai",
+        "cod": 200
+    }
+]

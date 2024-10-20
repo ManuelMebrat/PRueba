@@ -1,0 +1,2 @@
+timestamp,city,temperature,feels_like,temp_min,temp_max,pressure,humidity,weather_main,weather_description,wind_speed,wind_deg,clouds,country
+2024-10-11 21:27:40,shanghai,294.07,294.12,294.07,295.08,1020,73,Clear,clear sky,2,90,0,CN
