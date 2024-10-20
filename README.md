@@ -6,7 +6,7 @@
 
 Developed an API that retrieves weather information from OpenWeatherMap, allowing users to search for the temperature of any city they input. Each search is logged and stored in a JSON file, including additional details about the search
 
-# 2. Ai Scrapper [[Here](]https://github.com/ManuelMebrat/Python-Projects/tree/e3bdbed7952f1e6f50f0174fdeb72ab5c42eeb76/AI%20Scrapper)
+# 2. Ai Scrapper [[Here]](]https://github.com/ManuelMebrat/Python-Projects/tree/e3bdbed7952f1e6f50f0174fdeb72ab5c42eeb76/AI%20Scrapper)
 
 ![ScreenRecording2024-10-20at16 04 39-ezgif com-optimize](https://github.com/user-attachments/assets/3fa7b77e-942c-47c3-b41d-a92502b37dab)
 
